@@ -22,6 +22,7 @@ Output
 For each trip, output a line stating the total amount of money, in dollars and cents,
 that must be exchanged to equalize the students' costs
 
+<pre>
 Sample Input		Sample Output
 3			$10.00
 10.00			$11.99
@@ -33,3 +34,4 @@ Sample Input		Sample Output
 3.00
 3.01
 0
+</pre>
